@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 💬 Good at Python/ML/DL/C++/DSA
 - 🌱 I’m currently learning Data Analytics and Backend Development
 - 🤔 I’m looking for help with how to excel in Data Science career
+- ✨ I'm currently having 12 repositories (4 public and 8 private) but the number keeps increasing as I gain experience
