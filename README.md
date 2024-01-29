@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/krishnaura45)
 [![Codeforces](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/KD-Blitz/) 
 
-
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
@@ -36,3 +35,7 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Github](https://camo.githubusercontent.com/4e6deaebef0ba4505b4c828a0e0e9d4257e7d088a3d6180471ac3d634b621353/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465)
