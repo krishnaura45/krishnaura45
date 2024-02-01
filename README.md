@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Krishna</h1>
-<h3 align="center">Steady Learner</h3>
+<h2 align="center">Steady Learner</h2>
 <img align="right" alt="Coding" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl0dzkyOXdyMnd3NWk2eWhiZGFsNm1rN3RqOGhkdngwMGxmZjA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!--
