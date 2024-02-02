@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <h3><b><samp>Reach to Me at</samp></b></h3>
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnadubey45/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blueboy_yt45/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/krishnaura45)
 [![Codeforces](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/KD-Blitz/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blueboy_yt45/)
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
