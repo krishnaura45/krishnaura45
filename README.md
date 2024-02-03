@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnadubey45/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/krishnaura45)
-[![image](https://github.com/krishnaura45/krishnaura45/assets/118080140/a812e6de-b81e-47c9-9814-050fbc6ca013)](https://www.kaggle.com/krishd123)
+[![image](https://github.com/krishnaura45/krishnaura45/assets/118080140/3e9befb1-2c78-4df9-b3c2-5befc2d0e024)](https://www.kaggle.com/krishd123)
 [![Codeforces](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/KD-Blitz/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blueboy_yt45/)
 
