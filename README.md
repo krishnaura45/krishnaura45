@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👷 <samp>Currently pursuing my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b>
 - 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 93.2%
 - 💬 <samp>Good at Python/ML/DL/C++/DSA
-- 🌱 <samp>I’m currently learning Data Analytics and Front-end Development
+- 🌱 <samp>I’m currently learning Data Analytics
 - 🤔 <samp>I’m looking for help with how to excel in Data Science career
 - ✨ <samp>I'm currently having 13 repositories (5 public) but the number keeps increasing as I gain experience
 
