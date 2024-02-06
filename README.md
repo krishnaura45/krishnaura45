@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 <samp>Good at Python/ML/DL/C++/DSA
 - 🌱 <samp>I’m currently learning Data Analytics
 - 🤔 <samp>I’m looking for help with how to excel in Data Science career
-- ✨ <samp>I'm currently having 13 repositories (5 public) but the number keeps increasing as I gain experience
+- ✨ <samp>I'm currently having 13 repositories (6 public) but the number keeps increasing as I gain experience
 
 
 <br>
