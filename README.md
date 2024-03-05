@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Krishna</h1>
-<h2 align="center">Steady Learner</h2>
+<h2 align="center">Data Enthusiast</h2>
 <img align="right" alt="Coding" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl0dzkyOXdyMnd3NWk2eWhiZGFsNm1rN3RqOGhkdngwMGxmZjA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!--
@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 
 - 👷 <samp>Currently pursuing my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b>
 - 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 93.2%
-- 💬 <samp>Good at Python/ML/DL/C++/DSA
+- 💬 <samp>Good at Python/ML/DL/C++/Java
 - 🌱 <samp>I’m currently learning Data Analytics
-- 🤔 <samp>I’m looking for help with how to excel in Data Science career
 - ✨ <samp>I'm currently having 13 repositories (6 public) but the number keeps increasing as I gain experience
 
 
