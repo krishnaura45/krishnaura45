@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 93.2%
 - 💬 <samp>Good at Python/ML/DL/C++/Java
 - 🌱 <samp>I’m currently learning Data Analytics
-- ✨ <samp>I'm currently having 13 project repositories (7 public) but the number will keep increasing as I develop more and more of them.
+- ✨ <samp>I'm currently having 14 project repositories (8 public) but the number will keep increasing as I develop more and more of them.
 
 
 <br>
