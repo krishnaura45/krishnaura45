@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Github](https://camo.githubusercontent.com/4e6deaebef0ba4505b4c828a0e0e9d4257e7d088a3d6180471ac3d634b621353/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465)
 ![image](https://github.com/krishnaura45/krishnaura45/assets/118080140/78ef051b-a803-46ee-84a7-28817655c560)
 
 
