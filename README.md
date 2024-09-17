@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 👷 <samp>Currently pursuing my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b>
 - 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
 - 💬 <samp>Good at Python/C++/SQL, experienced in ML/DL/NLP/CV
-- 🌱 <samp>I’m currently learning generative artificial intelligence
-- ✨ <samp>I'm currently having 13 public project repositories.
+- 🌱 <samp>I’m currently exploring generative artificial intelligence and llms
+- ✨ <samp>I'm currently having 14 public project repositories
 
 
 <br>
