@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Krishna</h1>
-<h2 align="center">Data Enthusiast</h2>
+<h2 align="center">Data/AI Enthusiast</h2>
 <img align="right" alt="Coding" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl0dzkyOXdyMnd3NWk2eWhiZGFsNm1rN3RqOGhkdngwMGxmZjA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!--
@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👷 <samp>Currently pursuing my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b>
+- 👷 <samp>Currently pursuing my B.Tech 4th year in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b>
 - 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
 - 💬 <samp>Good at Python/C++/SQL, experienced in ML/DL/NLP/CV
 - 🌱 <samp>I’m currently exploring generative artificial intelligence, specifically llms, vlms and agents.
