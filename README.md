@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
 - 💬 <samp>Good at Python/C++/SQL, experienced in ML/DL/NLP/CV
 - 🌱 <samp>I’m currently exploring generative artificial intelligence, specifically llms, vlms and agents.
-- ✨ <samp>I'm currently having 14 public project repositories
+- ✨ <samp>I'm currently having 16 public project repositories
 
 
 <br>
