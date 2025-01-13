@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👷 <samp>Currently pursuing my B.Tech 4th year in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b>
+- 👷 <samp>Currently pursuing my B.Tech 4th year in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
 - 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
 - 💬 <samp>Good at Python/C++/SQL, experienced in ML/DL/NLP/CV
 - 🌱 <samp>I’m currently exploring generative artificial intelligence, specifically llms, vlms and agents.
