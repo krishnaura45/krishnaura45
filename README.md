@@ -9,14 +9,15 @@ Here are some ideas to get you started:
 -->
 
 - 👷 <samp>Currently pursuing my B.Tech 4th year in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
-- 🔭 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
-- 💬 <samp>Good at Python/C++/SQL, experienced in ML/DL/NLP/CV
-- 🌱 <samp>I’m currently exploring generative artificial intelligence, specifically llms, vlms and agents.
-- ✨ <samp>I'm currently having 24 project repositories.
+- 💫 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
+- 🔭 <samp>I’m currently working on project involving MLOps tools like MLFlow and ZenML.
+- ✨ <samp>I'm currently learning cutting-edge AI tools.
+- 🌱 <samp>I’m currently exploring generative artificial intelligence, specifically AI agents.
+- 💬 <samp>Ask me about my projects in AI, and the technical stack and tools I use for AI and machine learning development.
 
 
 <br>
-<h3><b><samp>Reach to Me at</samp></b></h3>
+<h2><b><samp> 🌐Socials</samp></b></h2>
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnadubey45/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/krishnaura45)
@@ -24,9 +25,12 @@ Here are some ideas to get you started:
 [![Codeforces](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/KD-Blitz/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blueboy_yt45/)
 
-<h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+
+<h3><b><samp>Other Languages</samp></b></h3>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
@@ -35,9 +39,63 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<h3><b><samp>Tools and Platform</samp></b></h3>
+<h2><b><samp>Tools</samp></b></h2>
 
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![image](https://github.com/krishnaura45/krishnaura45/assets/118080140/78ef051b-a803-46ee-84a7-28817655c560)
 
+# 📊GitHub Stats :
 
+[<img src="https://github-readme-stats.vercel.app/api?username=krishnaura45&show_icons=true&count_private=true&include_all_commits=true&theme=react" height="175">]([https://github-readme-stats.vercel.app/api?username=krishnaura45](https://github-readme-stats.vercel.app/api?username=krishnaura45&theme=react&hide_border=true&include_all_commits=false&count_private=false))
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45&layout=compact&theme=react" height="175">]([https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact))
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=krishnaura45">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaura45&theme=react&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnaura45">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnaura45&theme=react&hide_border=true"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishnaura45">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishnaura45&theme=react&hide_border=true"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishnaura45&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishnaura45&theme=react&hide_border=true"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnaura45">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnaura45&theme=react&hide_border=true"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishnaura45">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishnaura45&theme=react&hide_border=true"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
