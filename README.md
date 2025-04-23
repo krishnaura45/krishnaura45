@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=krishnaura45">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaura45&theme=react&hide_border=true">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaura45&theme=react&hide_border=true" alt="GitHub Streak Stats">
         </a>
       </td>
     </tr>
@@ -102,10 +102,10 @@ Here are some ideas to get you started:
 
 #### Latest Projects
 
-
 <a href="https://github.com/krishnaura45/bracket-brain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=bracket-brain&theme=chartreuse-dark" />
 </a>
+
 <a href="https://github.com/krishnaura45/Stock-sage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=Stock-sage&theme=chartreuse-dark" />
 </a>
