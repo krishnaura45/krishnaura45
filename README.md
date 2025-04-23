@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
 <table>
-  <tbody>
+<!--   <tbody>
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishnaura45">
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
         </a>
       </th>
     </tr>
-  </tbody>
+  </tbody> -->
   <tbody>
     <tr>
       <td>
@@ -99,3 +99,28 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+
+#### Latest Projects
+
+
+<a href="https://github.com/krishnaura45/bracket-brain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=bracket-brain&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/krishnaura45/Stock-sage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=Stock-sage&theme=chartreuse-dark" />
+</a>
+
+<br />
+
+#### Top Repositories
+
+
+<a href="https://github.com/krishnaura45/NeuroLoad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=NeuroLoad&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/krishnaura45/StressSense">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=StressSense&theme=chartreuse-dark" />
+</a>
+
+<br />
+
