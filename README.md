@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 
 <br>
-<h2><b><samp> 🌐Socials</samp></b></h2>
+<h2><b><samp> 🌐Connect to me</samp></b></h2>
 
-[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnadubey45/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/krishnaura45)
-[![image](https://github.com/krishnaura45/krishnaura45/assets/118080140/3e9befb1-2c78-4df9-b3c2-5befc2d0e024)](https://www.kaggle.com/krishd123)
-[![Codeforces](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/KD-Blitz/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blueboy_yt45/)
+[![My Linkdein Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnadubey45/)
+[![My Kaggle Profile](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/krishd123)
+[![My Leetcode Profile](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/KD-Blitz/) 
+[![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blueboy_yt45/)
 
 
 # 💻Tech Stack
@@ -100,27 +99,39 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-#### Latest Projects
-
-<a href="https://github.com/krishnaura45/bracket-brain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=bracket-brain&theme=chartreuse-dark" />
-</a>
-
-<a href="https://github.com/krishnaura45/Stock-sage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=Stock-sage&theme=chartreuse-dark" />
-</a>
-
-<br />
 
 #### Top Repositories
 
 
 <a href="https://github.com/krishnaura45/NeuroLoad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=NeuroLoad&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=NeuroLoad&theme=aura_dark" />
 </a>
 <a href="https://github.com/krishnaura45/StressSense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=StressSense&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=StressSense&theme=aura_dark" />
 </a>
 
 <br />
 
+#### Ongoing Projects
+
+<a href="https://github.com/krishnaura45/price-prophet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura" />
+</a>
+
+<a href="https://github.com/krishnaura45/rna-3d-folding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
+</a>
+
+<br />
+
+#### Latest Projects
+
+<a href="https://github.com/krishnaura45/bracket-brain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=bracket-brain&theme=cobalt2" />
+</a>
+
+<a href="https://github.com/krishnaura45/Stock-sage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=Stock-sage&theme=cobalt2" />
+</a>
+
+<br />
