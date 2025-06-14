@@ -115,23 +115,19 @@ Here are some ideas to get you started:
 #### Ongoing Projects
 
 <a href="https://github.com/krishnaura45/price-prophet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura" />
-</a>
-
-<a href="https://github.com/krishnaura45/rna-3d-folding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=cobalt2" />
 </a>
 
 <br />
 
 #### Latest Projects
 
-<a href="https://github.com/krishnaura45/bracket-brain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=bracket-brain&theme=cobalt2" />
+<a href="https://github.com/krishnaura45/rna-3d-folding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
 </a>
 
-<a href="https://github.com/krishnaura45/Stock-sage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=Stock-sage&theme=cobalt2" />
+<a href="https://github.com/krishnaura45/bracket-brain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=bracket-brain&theme=aura" />
 </a>
 
 <br />
