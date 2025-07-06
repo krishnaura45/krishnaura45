@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 -->
 
-- 👷 <samp>Currently pursuing my B.Tech 4th year in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
+- 👷 <samp>Soon to complete my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
 - 💫 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
-- 🔭 <samp>I’m currently working on project involving MLOps tools like MLFlow and ZenML.
+- 🔭 <samp>I’m currently working on project involving MLOps tools.
 - ✨ <samp>I'm currently learning cutting-edge AI tools.
 - 🌱 <samp>I’m currently exploring generative artificial intelligence, specifically AI agents.
 - 💬 <samp>Ask me about my projects in AI, and the technical stack and tools I use for AI and machine learning development.
@@ -112,6 +112,7 @@ Here are some ideas to get you started:
 
 <br />
 
+<!--
 #### Ongoing Projects
 
 <a href="https://github.com/krishnaura45/price-prophet">
@@ -119,15 +120,16 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+-->
 
 #### Latest Projects
 
-<a href="https://github.com/krishnaura45/rna-3d-folding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
+<a href="https://github.com/krishnaura45/price-prophet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura" />
 </a>
 
-<a href="https://github.com/krishnaura45/bracket-brain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=bracket-brain&theme=aura" />
+<a href="https://github.com/krishnaura45/rna-3d-folding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
 </a>
 
 <br />
