@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Krishna</h1>
-<h2 align="center">Data/AI Enthusiast</h2>
+<h2 align="center">Data Scientist / AI Engineer</h2>
 <img align="right" alt="Coding" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl0dzkyOXdyMnd3NWk2eWhiZGFsNm1rN3RqOGhkdngwMGxmZjA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!--
@@ -8,12 +8,12 @@
 Here are some ideas to get you started:
 -->
 
-- 👷 <samp>Soon to complete my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
+- 👷 <samp>Completing my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
 - 💫 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
-- 🔭 <samp>I’m currently working on project involving MLOps tools.
-- ✨ <samp>I'm currently learning cutting-edge AI tools.
-- 🌱 <samp>I’m currently exploring generative artificial intelligence, specifically AI agents.
-- 💬 <samp>Ask me about my projects in AI, and the technical stack and tools I use for AI and machine learning development.
+- 🔭 <samp>I’m currently working on projects involving MLOps tools, AI agents.
+- ✨ <samp>I'm continuously exploring cutting-edge AI tools.
+- 🌱 <samp>I’m learning MLOps and Gen AI.
+- 💬 <samp>Ask me about my projects in data science and AI, and the technical stack and tools I use for AI and machine learning development.
 
 
 <br>
@@ -112,24 +112,22 @@ Here are some ideas to get you started:
 
 <br />
 
-<!--
 #### Ongoing Projects
 
-<a href="https://github.com/krishnaura45/price-prophet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=cobalt2" />
+<a href="https://github.com/krishnaura45/customer-score-pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=customer-score-pipeline&theme=cobalt2" />
 </a>
 
 <br />
--->
 
-#### Latest Projects
+#### Most Recent Projects
 
 <a href="https://github.com/krishnaura45/price-prophet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura" />
 </a>
 
-<a href="https://github.com/krishnaura45/rna-3d-folding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
+<a href="https://github.com/krishnaura45/trade-sense">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=trade-sense&theme=aura" />
 </a>
 
 <br />
