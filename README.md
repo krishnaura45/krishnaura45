@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👷 <samp>Completing my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
+- 👷 <samp>Completing my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (CGPA~ 7.24, Percentage~ 77.4%)
 - 💫 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
 - 🔭 <samp>I’m currently working on projects involving MLOps tools, AI agents.
 - ✨ <samp>I'm continuously exploring cutting-edge AI tools.
