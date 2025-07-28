@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Krishna</h1>
-<h2 align="center">Data Scientist / AI Engineer</h2>
+<h2 align="center">A Data Scientist / AI Engineer</h2>
 <img align="right" alt="Coding" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl0dzkyOXdyMnd3NWk2eWhiZGFsNm1rN3RqOGhkdngwMGxmZjA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!--
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </table>
 
 
-#### Top Repositories
+#### Top Repositories (stars)
 
 
 <a href="https://github.com/krishnaura45/NeuroLoad">
@@ -120,14 +120,14 @@ Here are some ideas to get you started:
 
 <br />
 
-#### Most Recent Projects
+#### Recent Projects
 
 <a href="https://github.com/krishnaura45/price-prophet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura" />
 </a>
 
-<a href="https://github.com/krishnaura45/trade-sense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=trade-sense&theme=aura" />
+<a href="https://github.com/krishnaura45/FinAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=FinAI&theme=aura" />
 </a>
 
 <br />
