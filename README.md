@@ -112,10 +112,10 @@ Here are some ideas to get you started:
 
 <br />
 
-#### Ongoing Projects
+#### Collections
 
-<a href="https://github.com/krishnaura45/customer-score-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=customer-score-pipeline&theme=cobalt2" />
+<a href="https://github.com/krishnaura45/CodeGalaxy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=CodeGalaxy&theme=cobalt2" />
 </a>
 
 <br />
