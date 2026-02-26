@@ -8,12 +8,12 @@
 Here are some ideas to get you started:
 -->
 
-- 👷 <samp>Completed my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (CGPA~ 7.24, Percentage~ 77.4%)
-- 💫 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
-- 🔭 <samp>I’m currently working on projects involving MLOps tools, AI agents.
-- ✨ <samp>I'm continuously exploring cutting-edge AI tools.
-- 🌱 <samp>I’m learning MLOps and Gen AI.
-- 💬 <samp>Ask me about my projects in data science and AI, and the technical stack and tools I use for AI and machine learning development.
+- 💫 <samp>I've cracked Engineering competitive exams - <b>JEE Mains (2021)</b>, <b>JEE Advanced (2021)</b> and <b>GATE (2025 & 2026)</b>
+- 👷 <samp>I completed my B.Tech in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (CGPA~ 7.24, Percentage~ 77.4%)
+- 🔭 <samp>I got schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
+- ✨ <samp>I’m currently working on new projects involving ML and AI agents.
+- 🌱 <samp>I’m learning more about AI agents.
+- 💬 <samp>Ask me about my projects, and the technical stack and tools I use for AI and machine learning development.
 
 
 <br>
