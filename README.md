@@ -100,14 +100,14 @@ Here are some ideas to get you started:
 </table>
 
 
-#### Top Repositories (stars)
+#### Top Projects (My POV)
 
 
-<a href="https://github.com/krishnaura45/NeuroLoad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=NeuroLoad&theme=aura_dark" />
+<a href="https://github.com/krishnaura45/price-prophet/tree/optimal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura_dark" />
 </a>
-<a href="https://github.com/krishnaura45/StressSense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=StressSense&theme=aura_dark" />
+<a href="https://github.com/krishnaura45/FinAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=FinAI&theme=aura_dark" />
 </a>
 
 <br />
@@ -120,14 +120,14 @@ Here are some ideas to get you started:
 
 <br />
 
-#### Recent Projects
+#### Recent Competitions
 
-<a href="https://github.com/krishnaura45/price-prophet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura" />
+<a href="https://github.com/krishnaura45/nfl-player-movement-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=nfl-player-movement-prediction&theme=aura" />
 </a>
 
-<a href="https://github.com/krishnaura45/FinAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=FinAI&theme=aura" />
+<a href="https://github.com/krishnaura45/rna-3d-folding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
 </a>
 
 <br />
