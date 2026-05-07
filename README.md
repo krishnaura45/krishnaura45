@@ -115,14 +115,24 @@ Here are some ideas to get you started:
 
 ### Collections
 
-<a href="https://github.com/krishnaura45/code-tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=code-tutorials&theme=cobalt2" />
-</a>
-<a href="https://github.com/krishnaura45/code-innovate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=code-innovate&theme=cobalt2" />
-</a>
-
-<br />
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/krishnaura45/code-tutorials">
+          <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=code-tutorials&theme=cobalt2" /> -->
+          <img width="149" height="159" alt="_ad1fa4b7-99e0-43ee-b5c5-c242699e6d1b" src="https://github.com/user-attachments/assets/d0a44dc5-e8a9-4dbb-9fb7-02e34bca1741" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/krishnaura45/code-innovate">
+          <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=code-innovate&theme=cobalt2" /> -->
+          <img width="149" height="159" alt="_e6787a18-f423-4638-bbcf-a06a135fb6ff" src="https://github.com/user-attachments/assets/411e0549-ea00-43a6-908b-d7f14aaef090" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Recent Competitions
 
@@ -132,13 +142,14 @@ Here are some ideas to get you started:
       <td>
         <a href="https://github.com/krishnaura45/nfl-player-movement-prediction">
           <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=nfl-player-movement-prediction&theme=aura" /> -->
-          <img width="99" height="106" alt="Screenshot 2026-04-17 145012" src="https://github.com/user-attachments/assets/a6119db7-7598-45db-9251-d08d9157e43c" />
+          <!-- <img width="99" height="106" alt="Screenshot 2026-04-17 145012" src="https://github.com/user-attachments/assets/a6119db7-7598-45db-9251-d08d9157e43c" /> -->
+          <img width="149" height="159" alt="Screenshot 2026-04-17 145012" src="https://github.com/user-attachments/assets/a6119db7-7598-45db-9251-d08d9157e43c" />
         </a> 
       </td>
       <td>
         <a href="https://github.com/krishnaura45/rna-3d-folding">
           <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" /> -->
-          <img width="99" height="106" alt="Screenshot 2026-05-07 215237" src="https://github.com/user-attachments/assets/24aa49f7-c273-4514-a20d-9558691734ac" />
+          <img width="149" height="159" alt="Screenshot 2026-05-07 215237" src="https://github.com/user-attachments/assets/24aa49f7-c273-4514-a20d-9558691734ac" />
         </a>
       </td>
     </tr>
