@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Krishna</h1>
-<h2 align="center">A Data Scientist / AI Engineer</h2>
+<h2 align="center">An AI / ML Engineer</h2>
 <img align="right" alt="Coding" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl0dzkyOXdyMnd3NWk2eWhiZGFsNm1rN3RqOGhkdngwMGxmZjA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!--
@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000) ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff) ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)
 
-# 📊GitHub Stats :
-
+# GitHub Stats :
+<!--
 [<img src="https://github-readme-stats.vercel.app/api?username=krishnaura45&show_icons=true&count_private=true&include_all_commits=true&theme=react" height="175">]([https://github-readme-stats.vercel.app/api?username=krishnaura45](https://github-readme-stats.vercel.app/api?username=krishnaura45&theme=react&hide_border=true&include_all_commits=false&count_private=false))
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45&layout=compact&theme=react" height="175">]([https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact))
+-->
 
 <table>
   <tbody>
@@ -100,7 +101,7 @@ Here are some ideas to get you started:
 </table>
 
 
-#### Top Projects (My POV)
+### Top Projects (My POV)
 
 
 <a href="https://github.com/krishnaura45/price-prophet/tree/optimal">
@@ -112,22 +113,36 @@ Here are some ideas to get you started:
 
 <br />
 
-#### Collections
+### Collections
 
-<a href="https://github.com/krishnaura45/CodeGalaxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=CodeGalaxy&theme=cobalt2" />
+<a href="https://github.com/krishnaura45/code-tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=code-tutorials&theme=cobalt2" />
+</a>
+<a href="https://github.com/krishnaura45/code-innovate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=code-innovate&theme=cobalt2" />
 </a>
 
 <br />
 
-#### Recent Competitions
+### Recent Competitions
 
-<a href="https://github.com/krishnaura45/nfl-player-movement-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=nfl-player-movement-prediction&theme=aura" />
-</a>
-
-<a href="https://github.com/krishnaura45/rna-3d-folding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" />
-</a>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/krishnaura45/nfl-player-movement-prediction">
+          <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=nfl-player-movement-prediction&theme=aura" /> -->
+          <img width="99" height="106" alt="Screenshot 2026-04-17 145012" src="https://github.com/user-attachments/assets/a6119db7-7598-45db-9251-d08d9157e43c" />
+        </a> 
+      </td>
+      <td>
+        <a href="https://github.com/krishnaura45/rna-3d-folding">
+          <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=rna-3d-folding&theme=aura" /> -->
+          <img width="99" height="106" alt="Screenshot 2026-05-07 215237" src="https://github.com/user-attachments/assets/24aa49f7-c273-4514-a20d-9558691734ac" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
