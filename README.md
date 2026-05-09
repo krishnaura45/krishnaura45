@@ -170,12 +170,14 @@ Here are some ideas to get you started:
     <tr>
       <td>
         <a href="https://github.com/krishnaura45/price-prophet/tree/optimal">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura_dark" />
+          <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=price-prophet&theme=aura_dark" /> -->
+          <img align="center" width="256" height="171" alt="price-prophet" src="https://github.com/user-attachments/assets/03fb8042-0365-40eb-90db-06bd3bc85b7a" />
         </a>
       </td>
       <td>
         <a href="https://github.com/krishnaura45/FinAI">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=FinAI&theme=aura_dark" />
+          <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaura45&repo=FinAI&theme=aura_dark" /> -->
+          <img align="center" width="257" height="137" alt="finAI" src="https://github.com/user-attachments/assets/28301ccf-8c07-493d-8bf2-f170cbb3c545" />
         </a>
       </td>
     </tr>
